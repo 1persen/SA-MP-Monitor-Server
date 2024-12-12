@@ -25,4 +25,4 @@ Bot ini juga dilengkapi dengan berbagai manisan yang membuat interaksi lebih men
 
 ## Lisensi
 Bot ini dilindungi oleh hak cipta. Semua hak dilindungi oleh Lord Rama.
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000FF&width=435&lines=@All Rights Reserved By Lord Rama " alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000FF&width=435&lines=@All+Rights+Reserved+By+Lord+Rama+" alt="Typing SVG" /></a>
