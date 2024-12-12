@@ -23,6 +23,4 @@ Bot ini juga dilengkapi dengan berbagai manisan yang membuat interaksi lebih men
 3. edit  file `config.json` dan masukkan token Discord anda kalau mau ganti ip ganti juga sesuai sever yang mau dan konfigurasi server Anda. 
 4. Jalankan bot dengan perintah `node index.js`.
 
-## Lisensi
-Bot ini dilindungi oleh hak cipta. Semua hak dilindungi oleh Lord Rama.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000FF&width=435&lines=@All+Rights+Reserved+By+Lord+Rama+" alt="Typing SVG" /></a>
