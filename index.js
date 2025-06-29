@@ -200,9 +200,9 @@ ${prefix}fitnah  - [target] [pesan fitnah] - Mengirim pesan fitnah ke target.
         const row = new ActionRowBuilder()
             .addComponents(
                 new ButtonBuilder()
-                    .setLabel('Instagram: zex.cartez')
+                    .setLabel('Instagram: ramavex_')
                     .setStyle(ButtonStyle.Link)
-                    .setURL('https://www.instagram.com/zex.cartez')
+                    .setURL('https://www.instagram.com/ramavex_')
             );
 
         message.channel.send({
